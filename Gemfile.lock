@@ -167,6 +167,7 @@ PLATFORMS
 
 DEPENDENCIES
   annotate
+  bundler (~> 1.16, >= 1.16.1)
   coffee-rails (~> 4.1.0)
   faker
   jbuilder (~> 2.0)
